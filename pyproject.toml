@@ -1,0 +1,13 @@
+[project]
+name = "moccasin_project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mamushi>=0.0.8",
+    "ruff>=0.14.1",
+    "tool>=0.8.0",
+    "vyper==0.4.1",
+    "vyper-lsp>=0.1.0",
+]
